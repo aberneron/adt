@@ -1,4 +1,4 @@
-package ca.ulaval.glo4002.adt;
+package ca.ulaval.glo4002.adt.Application;
 
 import java.util.HashMap;
 import java.util.Map;

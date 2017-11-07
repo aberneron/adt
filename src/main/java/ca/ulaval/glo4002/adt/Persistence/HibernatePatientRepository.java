@@ -1,4 +1,7 @@
-package ca.ulaval.glo4002.adt;
+package ca.ulaval.glo4002.adt.Persistence;
+
+import ca.ulaval.glo4002.adt.Domain.Patient;
+import ca.ulaval.glo4002.adt.Application.EntityManagerProvider;
 
 import java.util.Collection;
 
